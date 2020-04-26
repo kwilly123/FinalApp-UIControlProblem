@@ -3,9 +3,12 @@
 ## Description
 
 The app starts off with the login screen where you can sign into the app using google sign-in.
-![](ImagesForReadMe/image1.png | width=100)
+
+![](ImagesForReadMe/image1.png)
 
 Then when authenticated it will bring you to a new window where you can select your projects or create a new one. If not created just click the plus button and it will prompt you to name your project.
+
+![](ImagesForReadMe/image2.png)
 
 Select your project.
 

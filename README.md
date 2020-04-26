@@ -21,4 +21,4 @@ Tapping Remove Track: This will remove the audio file from the track and the dat
 
 Tapping Go Back: This will flip the cell back around so you can access the tracks properties.
 
-![](images/filename image1.png)
+![](ImagesForReadMe/image1.png)

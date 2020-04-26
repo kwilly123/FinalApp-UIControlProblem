@@ -20,3 +20,5 @@ Tapping Import Track: This will open up a files controller that will show the au
 Tapping Remove Track: This will remove the audio file from the track and the database.
 
 Tapping Go Back: This will flip the cell back around so you can access the tracks properties.
+
+![](images/filename image1.png)

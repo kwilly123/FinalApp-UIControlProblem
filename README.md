@@ -27,7 +27,7 @@ Once the project is finished loading...
 Now we are inside the project where you can see 6 tracks in a collection with a pan knob, volume slider, mute and solo button, and a label telling you which track it is as well as a light in the top right corner of the cell telling you if there is track imported into that cell or not, initially gray when launched when theres no track, blue when theres a track imported into that cell, and black when the track has been removed.
 As well as an eq window with 8 knobs that modify the whole frequency spectrum. (20hz-20khz)
 A play button and a go back button that restarts the songs.
-Lastly, a progress bar to track the upload progress when you import tracks because it updates to the Firebase Storage!
+Lastly, a label to track the upload progress when you import tracks because it uploads to the Firebase Storage!
 
 ![](ImagesForReadMeFinal/image5.png)
 

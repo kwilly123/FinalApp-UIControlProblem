@@ -43,7 +43,7 @@ Solo: You can solo a track which will cut out all the audio on every other track
 
 ![](ImagesForReadMeFinal/image7.png)
 
-Long press on the track name label (where it says 'track #' on a cell) and the cell will flip around showing buttons Import Track, Remove Track, or Go back.
+Double tap on the track name label (where it says 'track #' on a cell) and the cell will flip around showing buttons Import Track, Remove Track, or Go back.
 
 Tapping Import Track: This will open up a files controller that will show the audio files in your phone, select one and confirm it and then that the audio file is imported into that track! and that blue light will be on for that cell.
 
